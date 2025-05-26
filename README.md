@@ -53,6 +53,9 @@ This case study explores customer purchase behavior at Walmart using sales data.
 
 ---
 
+📘 **View full analysis notebook:** [Walmart_insights_HJ.ipynb](./Walmart_insights_HJ.ipynb)
+
+
 ## 👤 Author
 
 **Himanshu Jharaniya**  
