@@ -3,6 +3,7 @@ Data Analytics projects with business case studies, dashboards, and real-world i
 
 ## 📁 Projects
 
-- [Walmart Customer Analysis](./walmart_customer_analysis/)  
-  📊 EDA, Visualizations, Tableau Dashboard, and Business Insights
+- [Walmart Customer Analysis](Walmart_insights_HJ.ipynb%20-%20Colab.pdf)
+    📊 EDA, Visualizations, Tableau Dashboard, and Business Insights
+
 
