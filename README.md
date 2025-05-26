@@ -10,7 +10,6 @@ This case study explores customer purchase behavior at Walmart using sales data.
 - **Python** (Pandas, Matplotlib, Seaborn)
 - **SQL** (BigQuery for data querying)
 - **Excel** (initial exploration)
-- **Tableau** (interactive dashboards)
 - **Google Colab** (notebook execution)
 
 ---
@@ -22,7 +21,6 @@ This case study explores customer purchase behavior at Walmart using sales data.
 | `Case_Study_Report.pdf`      | Business-focused PDF report summarizing insights |
 | `data/walmart_sales.csv`     | Cleaned transactional sales data                 |
 | `notebooks/analysis.ipynb`   | Exploratory Data Analysis in Python              |
-| `presentation/final_presentation.pdf` | PPT used for final delivery             |
 | `README.md`                  | Project overview and documentation               |
 
 ---
