@@ -22,7 +22,6 @@ This case study explores customer purchase behavior at Walmart using sales data.
 | `Case_Study_Report.pdf`      | Business-focused PDF report summarizing insights |
 | `data/walmart_sales.csv`     | Cleaned transactional sales data                 |
 | `notebooks/analysis.ipynb`   | Exploratory Data Analysis in Python              |
-| `visuals/dashboard_tableau.png` | Screenshot of Tableau dashboard                |
 | `presentation/final_presentation.pdf` | PPT used for final delivery             |
 | `README.md`                  | Project overview and documentation               |
 
@@ -35,12 +34,6 @@ This case study explores customer purchase behavior at Walmart using sales data.
 - 🕒 Most purchases occur during the **weekend**
 - 📈 High-spending users are mostly from **urban regions**
 - 🧠 **Targeted marketing** to females aged 26–45 can improve sales
-
----
-
-## 📸 Dashboard Preview
-
-![Walmart Dashboard](visuals/dashboard_tableau.png)
 
 ---
 
